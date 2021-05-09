@@ -1,3 +1,6 @@
-<img src="https://discordapp.com/api/guilds/[827924670182457427]/widget.png?style=banner4" alt="Discord Banner 4"/>
-
-Please Join My Discord Server
+<div align="center">
+  <a href="https://dashcruft.com/discord" target="_blank">
+    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
+  </a>
+  
+  Join
