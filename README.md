@@ -1,2 +1,3 @@
-# Discord.js-Bot
-Discord.js Built Bot
+<img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
+
+Please Join My Discord Server
